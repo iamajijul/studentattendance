@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StudentAttendance</string>
+    <string name="checkUsernameAndPassword">Please check username and password.</string>
+</resources>
